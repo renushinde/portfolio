@@ -1,0 +1,50 @@
+.navigation ul{
+	list-style-type: none;
+	text-align: center;;
+	padding: 0;
+	margin:0;
+	background-color:#475c6c;
+
+}
+
+a{
+	color: white;
+}
+a:hover{
+	color:tomato;
+}
+
+ li{
+	font-family: 'Oswald',sans-serif;
+	font-size: 1.2em;
+	line-height: 40px;
+	height: 40px;
+	border-bottom: 1px solid #888;
+	display: inline-block;
+    color: white;
+
+
+}
+.img{
+	border-radius: 190%;
+	width: 30%;
+	margin-left: 40%;
+	border: 3px solid black;
+	padding: 10px;
+	margin-top: 0.9%;
+
+}
+.front-end{
+	width: 10%;
+	display: block;
+	float: left;
+	margin-left: 10%;
+}
+p, h2{
+	text-align: center;
+}
+
+#projects{
+	display: inline-block;
+}
+
